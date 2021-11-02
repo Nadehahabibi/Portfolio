@@ -8,6 +8,6 @@ Portfolio Repository
   </head>
   <body>
     <h1>Nadeha Habibi Portfolio Website</h1>
-    <a href="/">Welcome to my website</a>
+    <a>Welcome to my website</a>
   </body>
 </html>
